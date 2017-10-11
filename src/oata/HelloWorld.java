@@ -1,7 +1,7 @@
-ï»¿package oata;
+package oata;
 
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("ä¸­å›½å°„ç”µæœ›è¿œé•œ.");
+        System.out.println("ÖĞ¹úÉäµçÍûÔ¶¾µ.");
     }
 }
